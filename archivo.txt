@@ -1,0 +1,4 @@
+JOSE PEREZ || Puntaje: 99.999
+MARIA LOMAS || Puntaje: 34.2108
+JUANITO RIOS || Puntaje: 99.99940000000004
+FD FD || Puntaje: 0.0
